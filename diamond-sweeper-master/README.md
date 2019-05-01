@@ -1,6 +1,6 @@
 # Diamond-Sweeper
 
-A simple game diamond finding game on ReactJS. This project is bootstraped with [Create React App](https://github.com/facebook/create-react-app).
+A simple game diamond finding game on ReactJS. This project is bootstraped with [Create React App].
 
 ## Preview
 
@@ -10,11 +10,9 @@ A simple game diamond finding game on ReactJS. This project is bootstraped with 
 
 **1. Fork(If you want to improvise, but don't forget to generate a pull request) and star this repo**
 
-**2. Clone this repo**
 
-> $ git clone https://github.com/shubham56/diamond-sweeper.git
 
-**4. Run the following command in your project directory**
+**2. Run the following command in your project directory**
 
 > $ cd diamond-sweeper
 
@@ -23,7 +21,7 @@ A simple game diamond finding game on ReactJS. This project is bootstraped with 
 **Note:**
 **the game board is of N\*N size which is set to 8 by default. You can change this value in the ./src/constants.js => SIZE variable**
 
-**5. How to launch**
+**3. How to launch**
 
 > $ npm run start
 
@@ -37,10 +35,3 @@ A simple game diamond finding game on ReactJS. This project is bootstraped with 
 
 > $ npm run eject -> to eject this project to `cli` version
 
-## Credits
-
-[ReactJS](https://github.com/facebook/react)
-
-[Create React App](https://github.com/facebook/create-react-app).
-
-[bootstrap](https://github.com/twbs/bootstrap)
